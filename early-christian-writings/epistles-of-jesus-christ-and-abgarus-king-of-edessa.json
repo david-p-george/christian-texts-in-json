@@ -1,0 +1,87 @@
+{
+    "type": "book",
+    "name": "The Epistles of Jesus Christ and Abgarus King of Edessa",
+    "data": [
+      {
+        "type": "chapter",
+        "chapterNo": "1",
+        "chapterName": "",
+        "noOfSections": 8,
+        "sections": [
+          {
+            "type": "section",
+            "heading": "A copy of a letter written by King Abgarus to Jesus; and sent to him by Ananius, his footman, to Jerusalem, inviting him to Edessa.",
+            "text": ""
+          },
+          {
+            "type": "section",
+            "heading": "Prologue",
+            "text": "Abgarus, king of Edessa, to Jesus the good Saviour, who appears at Jerusalem, greeting."
+          },
+          {
+            "type": "section",
+            "heading": "",
+            "text": "I have been informed concerning you and your cures, which are performed without the use of medicines and herbs."
+          },
+          {
+            "type": "section",
+            "heading": "",
+            "text": "For it is reported, that you cause the blind to see, the lame to walk, do both cleanse lepers, and cast out unclean spirits and devils, and restore them to health who have been long diseased; and raiseth up the dead;"
+          },
+          {
+            "type": "section",
+            "heading": "",
+            "text": "All which when I heard, I was pursuaded of one of these two, namely, either that you are God himself descended from heaven; who do these things, or the Son of God."
+          },
+          {
+            "type": "section",
+            "heading": "",
+            "text": "On this account therefore I have written to you, earnestly to desire you would take the trouble of a journey hither, and cure a disease which I am under."
+          },
+          {
+            "type": "section",
+            "heading": "",
+            "text": "For I hear the Jews ridicule you and, intend you mischief."
+          },
+          {
+            "type": "section",
+            "heading": "",
+            "text": "My city is indeed small, but neat, and large enough for us both."
+          }
+        ]
+      },
+      {
+        "type": "chapter",
+        "chapterNo": "2",
+        "chapterName": "",
+        "noOfSections": 5,
+        "sections": [
+          {
+            "type": "section",
+            "heading": "The answer of Jesus by Ananias the footman to Abgarus the king.",
+            "text": ""
+          },
+          {
+            "type": "section",
+            "heading": "",
+            "text": "Abgarus, you are happy, forasmuch as you have believed on me, whom you have not seen."
+          },
+          {
+            "type": "section",
+            "heading": "",
+            "text": "For it is written concerning me, that those who have seen me should not believe on me, that they who have not seen might believe and live."
+          },
+          {
+            "type": "section",
+            "heading": "",
+            "text": "As to that part of your letter, which relates to my giving you a visit, I must inform you, that I must fulfil all the ends of my mission in this country, and after that be received up again to him who sent me."
+          },
+          {
+            "type": "section",
+            "heading": "",
+            "text": "But after my ascension I will send one of my disciples, who will cure your disease, and give life to you, and all that are with you."
+          }
+        ]
+      }
+    ]
+  }
