@@ -1,6 +1,8 @@
 {
   "type": "book",
   "name": "The Testament of Reuben the First born Son of Jacob and Leah",
+  "translation": "R H Charles",
+  "convertedToJSONBy": "David George",
   "data": [
     {
       "type": "chapter",

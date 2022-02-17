@@ -1,6 +1,8 @@
 {
     "type": "book",
     "name": "The Epistles of Jesus Christ and Abgarus King of Edessa",
+    "translation": "William Wake",
+    "convertedToJSONBy": "David George",
     "data": [
       {
         "type": "chapter",
