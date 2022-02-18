@@ -1,6 +1,8 @@
 {
     "type": "book",
     "name": "The Testament of Levi the Third Son of Jacob and Leah",
+    "translation": "R H Charles",
+    "convertedToJSONBy": "David George",
     "data": [
       {
         "type": "chapter",
